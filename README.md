@@ -48,3 +48,8 @@ java-simple-inventory-system
     ├── Main.java
     ├── Product.java
     └── Inventory.java
+What I Learned
+
+Through this project, I practiced CRUD logic in Java. I learned how to add, read, update, delete, search, and filter objects stored in an ArrayList.
+
+This project helped me understand the basic logic behind inventory management systems and prepared me for larger backend projects.
